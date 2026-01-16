@@ -1,0 +1,51 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Main container */
+.profile-container {
+    width: 80%;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 2px solid #cccccc;
+    border-radius: 8px;
+}
+
+/* Headings */
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #0066cc;
+    margin-bottom: 10px;
+}
+
+/* Section box model */
+.section {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #dddddd;
+    background-color: #fafafa;
+}
+
+/* Text and lists */
+p {
+    line-height: 1.6;
+    margin: 10px 0;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+}
